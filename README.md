@@ -1,6 +1,6 @@
 # Sobre Mim:
 <ul>
-  <li> Estudante de Engenharia de Computação - USP São Carlos;</li><br><li> Técnica em Informática - IFSP Jacareí;</li><br><li> Faço parte do grupo de Robótica <a href="https://github.com/Grupo-SEMEAR-USP">SEMEAR.</a></li></ul>
+  <li> Estudante de Engenharia de Computação - USP São Carlos;</li><br><li> Técnica em Informática - IFSP Jacareí;</li><br> </a></ul>
 
 
 # Tecnologias que Utilizo:
