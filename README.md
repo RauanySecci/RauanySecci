@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
+
 # About Me:
 <ul>
   <li> Computer Engineering Student - USP São Carlos;</li><br><li> IT Technician - IFSP Jacareí;</li><br> </a></ul>
@@ -9,5 +11,5 @@
 
 ---
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
