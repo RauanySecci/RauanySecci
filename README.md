@@ -9,7 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=RauanySecci&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RauanySecci&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
